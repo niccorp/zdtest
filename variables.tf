@@ -49,6 +49,6 @@ variable "db_pass" {
   default = "HaSh1CoR3"
 }
 
-variable "ssh_key_public" {}
+#variable "ssh_key_public" {}
 
-variable "ssh_key_private" {}
+#variable "ssh_key_private" {}
